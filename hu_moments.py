@@ -12,6 +12,7 @@ Reference      : Ming-Kuei Hu, "Visual pattern recognition by moment invariants,
 Date created   : 12/november/2017
 Created by     : Adailton Júnior
 E-mail         : adailtonjn68@gmail.com
+Github project : https://github.com/adailtonjn68/hu_moments_in_python/
 Python version : 3.5 (tested in version 3.5 but as there're no big changes in python
                  standard, it can be used with other versions).
 Comments       : This implementation uses only python standard functions, but it
