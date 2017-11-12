@@ -1,6 +1,6 @@
 # hu_moments_in_python
 
-Description    : This program computes Hu's moments invariant on scale and rotation of a discrete image f(x,y).
+Description    : This program computes Hu's moments invariant on scale and rotation of a discrete image f(x,y) in python. It can be used with python standard arrays and, also, with numpy arrays.
 
 Reference      : Ming-Kuei Hu, "Visual pattern recognition by moment invariants," in IRE Transactions on Information Theory,
                  vol. 8, no. 2, pp. 179-187, February 1962.
@@ -20,4 +20,3 @@ Python version : 3.5 (tested in version 3.5 but as there're no big changes in py
 Comments       : This implementation uses only python standard functions, but it
                  can be used also with numpy arrays.
                  So, the program is ready for an numpy array. No adaptation is needed.
-                 
